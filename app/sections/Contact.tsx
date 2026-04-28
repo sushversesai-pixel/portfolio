@@ -60,7 +60,6 @@ export default function Contact() {
               >
                 View GitHub
               </a>
-
             </div>
           </div>
         </div>
