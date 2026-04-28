@@ -18,6 +18,12 @@ export default function RootLayout({
             </div>
           </div>
         </div>
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5317023537267552"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <Script id="tryme-widget" strategy="afterInteractive">
           {`
             (function() {
